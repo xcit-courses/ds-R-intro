@@ -1,0 +1,11 @@
+---
+title: "Chapter 1: Introduction to Data Science in R"
+---
+
+
+This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.
+
+## Lecture Slides
+
+- [Course introduction](slides/course_introduction.qmd)
+

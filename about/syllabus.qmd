@@ -1,0 +1,64 @@
+---
+title: "Syllabus"
+---
+
+
+
+**Course Title:** Introduction to Data Science in R  
+**Instructor:** Pedro Cardoso-Leite  
+**Email:** pedro.cardosoleite@uni.lu  
+**ECTS Credits:** 3  
+**Language:** English  
+**Course Type:** Workshop/Lab-course  
+
+
+## Course Description
+
+Data science is about transforming raw data into understanding. It involves activities such as preprocessing and documenting data, computing summary statistics, plotting meaningful relationships and writing reports.
+
+This course is designed to help you get started in data science using R, RStudio and the Tidyverse – a set of powerful and popular tools commonly used in academia and the industry – and give you the foundation to further progress autonomously in your data analysis journey.
+
+The course involves many hands-on workshops to put your newly acquired knowledge into practice with concrete and relevant use cases.
+
+Although we welcome all levels, this course will focus on students who begin with R and/or the Tidyverse collection of R packages for data science.
+
+
+## Learning Objectives
+
+By the end of this course, the student should be able to:
+
+1. Program in R using current best practices
+2. Be familiar with the main steps of a typical data science workflow
+3. Find help when encountering new data science related problems
+4. Use community-standard tools for visualization (ggplot2)
+5. Perform data tidying and transformation (dplyr, tidyr)
+6. Conduct basic modeling and statistical analysis
+7. Create reproducible reports and documentation
+
+## Course Information
+
+**Instructor:** Pedro Cardoso-Leite (pedro.cardosoleite@uni.lu)  
+**ECTS:** 3  
+**Language:** English  
+**Course Type:** Workshop/Lab-course  
+**Semester:** Whole year (Winter + Summer)
+
+## Workload
+
+- **Total:** 15 weeks
+- **Weekly:** 3 hours of on-site lectures and workshops + 2 hours of homework
+- **Total Hours:** 75 hours of work
+
+## Evaluation
+
+**Type:** Course participation and final project
+
+## Prerequisites
+
+- No programming experience is required
+- Access to a computer with Internet connection
+
+## Registration
+
+**Open to:** All Doctoral Candidates  
+**Max Participants:** 20

@@ -1,0 +1,13 @@
+---
+title: "Course Overview"
+---
+
+This is the homepage for Introduction to Data Science in R taught by Prof. Pedro Cardoso-Leite at the University of Luxembourg within the Doctoral Programme in Psychology.
+
+All course materials will be posted here. Note however that this course also has a [moodle page](https://moodle.uni.lu/course/view.php?id=8493). 
+
+
+
+## When and Where
+
+{{< include schedule_table.md >}}

@@ -1,0 +1,98 @@
+---
+title: "Introduction to data science in R"
+author: "[Pedro Cardoso-Leite](pedro.cardosoleite@uni.lu)"
+title-block-banner: true
+title-block-style: plain
+affiliation-title: "University of Luxembourg" 
+format: 
+  revealjs:
+    theme: [default, ../../../assets/revealjs_themes/teaching.scss]
+    css: ../../../assets/revealjs_themes/style.css
+    incremental: true
+    chalkboard: true
+    logo: "https://xcit.org/images/xcit/logofinaline.png"
+    width: 1600
+    height: 900
+    pointer:
+      color: "#db0d23"
+      pointerSize: 24
+    revealjs-plugins:
+      - pointer
+editor: visual
+---
+
+## Hello, nice to meet you! {.center}
+
+
+
+## Schedule
+
+::: {style="font-size: 70%;"}
+
+{{< include ../../../about/schedule_table.md >}}
+
+:::
+
+
+## What is this course about?
+
+::: incremental
+1.  Getting started (background and setup)
+2.  Programming, in R
+3.  Introduction to the tidyverse
+4.  Importing data into R
+5.  Data visualization Design
+6.  Data visualization using ggplot2
+7.  Data tidying and transformations
+8.  Data analysis (modeling, statistics, ML)
+9.  Workflows & best practices (reproducibility)
+10. ...anything else?
+      
+:::
+
+
+
+## Why this course?
+
+[![Wikipedia](/chapters/chapter1/images/the_scientific_method.png){fig-alt="https://en.wikipedia.org/wiki/Scientific_method" fig-align="center" width="600" .img-shadow}](https://en.wikipedia.org/wiki/Scientific_method)
+
+
+
+## Data science workflow
+
+[![https://r4ds.hadley.nz/](/chapters/chapter1/images/data_science_workflow.png){fig-alt="https://r4ds.hadley.nz/" fig-align="center" .img-shadow}](https://r4ds.hadley.nz/)
+
+Programming is the "glue" that binds all of these steps.
+
+
+
+## Freedom and empowerment
+
+-   You are restricted when using "tools" developed by others;
+
+-   If you learn to create your own "tools", the possibilities become endless.
+
+-   You will gain in efficiency and freedom (you can delegate work to computers).
+
+-   You will better understand the digital world.
+
+## Learning by doing
+
+This is a hands-on course!
+
+
+
+## Resources
+
+-   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
+-   [R for Data Science (2e)](https://r4ds.hadley.nz/)
+-   [R for Psychological Science](https://psyr.djnavarro.net/)
+-   [Learning Statistics with R](https://learningstatisticswithr.com/)
+-   [R for Psych](https://glennwilliams.me/r4psych/)
+   
+
+## Grading
+
+ - Attend and participate
+ - Do the assignments
+ - Complete final project
