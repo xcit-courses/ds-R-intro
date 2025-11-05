@@ -1,0 +1,247 @@
+[
+  {
+    "objectID": "resources/resources.html",
+    "href": "resources/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science (2e) by Hadley Wickham & Garrett Grolemund\nIntroduction to Statistical Learning by James, Witten, Hastie, and Tibshirani\n\n\n\n\n\nRStudio Education\nPosit Cloud\nDataCamp\nCoursera Data Science Specialization\n\n\n\n\n\nRStudio Cheatsheets\nTidyverse",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources/resources.html#recommended-books",
+    "href": "resources/resources.html#recommended-books",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science (2e) by Hadley Wickham & Garrett Grolemund\nIntroduction to Statistical Learning by James, Witten, Hastie, and Tibshirani",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources/resources.html#online-resources",
+    "href": "resources/resources.html#online-resources",
+    "title": "Resources",
+    "section": "",
+    "text": "RStudio Education\nPosit Cloud\nDataCamp\nCoursera Data Science Specialization",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources/resources.html#other",
+    "href": "resources/resources.html#other",
+    "title": "Resources",
+    "section": "",
+    "text": "RStudio Cheatsheets\nTidyverse",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html",
+    "href": "chapters/chapter1/chapter1.html",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "",
+    "text": "This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Introduction to Data Science"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html#lecture-slides",
+    "href": "chapters/chapter1/chapter1.html#lecture-slides",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nCourse introduction",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Introduction to Data Science"
+    ]
+  },
+  {
+    "objectID": "about/overview.html",
+    "href": "about/overview.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "This is the homepage for Introduction to Data Science in R taught by Prof. Pedro Cardoso-Leite at the University of Luxembourg within the Doctoral Programme in Psychology.\nAll course materials will be posted here. Note however that this course also has a moodle page.",
+    "crumbs": [
+      "Course Information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "about/overview.html#when-and-where",
+    "href": "about/overview.html#when-and-where",
+    "title": "Course Overview",
+    "section": "When and Where",
+    "text": "When and Where\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir",
+    "crumbs": [
+      "Course Information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Introduction to Data Science in R",
+    "section": "",
+    "text": "This is the (work in progress) course website for “Introduction to Data Science in R”.\nIn this course we will cover the following content:\n\nChapter 1: Course introduction\n\nEach chapter contains links to slides and possibly other resources.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html",
+    "href": "about/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Course Title: Introduction to Data Science in R\nInstructor: Pedro Cardoso-Leite\nEmail: pedro.cardosoleite@uni.lu\nECTS Credits: 3\nLanguage: English\nCourse Type: Workshop/Lab-course",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#course-description",
+    "href": "about/syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "Course Description",
+    "text": "Course Description\nData science is about transforming raw data into understanding. It involves activities such as preprocessing and documenting data, computing summary statistics, plotting meaningful relationships and writing reports.\nThis course is designed to help you get started in data science using R, RStudio and the Tidyverse – a set of powerful and popular tools commonly used in academia and the industry – and give you the foundation to further progress autonomously in your data analysis journey.\nThe course involves many hands-on workshops to put your newly acquired knowledge into practice with concrete and relevant use cases.\nAlthough we welcome all levels, this course will focus on students who begin with R and/or the Tidyverse collection of R packages for data science.",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#learning-objectives",
+    "href": "about/syllabus.html#learning-objectives",
+    "title": "Syllabus",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this course, the student should be able to:\n\nProgram in R using current best practices\nBe familiar with the main steps of a typical data science workflow\nFind help when encountering new data science related problems\nUse community-standard tools for visualization (ggplot2)\nPerform data tidying and transformation (dplyr, tidyr)\nConduct basic modeling and statistical analysis\nCreate reproducible reports and documentation",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#course-information",
+    "href": "about/syllabus.html#course-information",
+    "title": "Syllabus",
+    "section": "Course Information",
+    "text": "Course Information\nInstructor: Pedro Cardoso-Leite (pedro.cardosoleite@uni.lu)\nECTS: 3\nLanguage: English\nCourse Type: Workshop/Lab-course\nSemester: Whole year (Winter + Summer)",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#workload",
+    "href": "about/syllabus.html#workload",
+    "title": "Syllabus",
+    "section": "Workload",
+    "text": "Workload\n\nTotal: 15 weeks\nWeekly: 3 hours of on-site lectures and workshops + 2 hours of homework\nTotal Hours: 75 hours of work",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#evaluation",
+    "href": "about/syllabus.html#evaluation",
+    "title": "Syllabus",
+    "section": "Evaluation",
+    "text": "Evaluation\nType: Course participation and final project",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#prerequisites",
+    "href": "about/syllabus.html#prerequisites",
+    "title": "Syllabus",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nNo programming experience is required\nAccess to a computer with Internet connection",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "about/syllabus.html#registration",
+    "href": "about/syllabus.html#registration",
+    "title": "Syllabus",
+    "section": "Registration",
+    "text": "Registration\nOpen to: All Doctoral Candidates\nMax Participants: 20",
+    "crumbs": [
+      "Course Information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
+    "href": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
+    "title": "Introduction to data science in R",
+    "section": "Hello, nice to meet you!",
+    "text": "Hello, nice to meet you!"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#schedule",
+    "href": "chapters/chapter1/slides/course_introduction.html#schedule",
+    "title": "Introduction to data science in R",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
+    "href": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
+    "title": "Introduction to data science in R",
+    "section": "What is this course about?",
+    "text": "What is this course about?\n\n\nGetting started (background and setup)\nProgramming, in R\nIntroduction to the tidyverse\nImporting data into R\nData visualization Design\nData visualization using ggplot2\nData tidying and transformations\nData analysis (modeling, statistics, ML)\nWorkflows & best practices (reproducibility)\n…anything else?"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#why-this-course",
+    "href": "chapters/chapter1/slides/course_introduction.html#why-this-course",
+    "title": "Introduction to data science in R",
+    "section": "Why this course?",
+    "text": "Why this course?\n\n\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
+    "href": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
+    "title": "Introduction to data science in R",
+    "section": "Data science workflow",
+    "text": "Data science workflow\n\n\n\n\n\n\n\nhttps://r4ds.hadley.nz/\n\n\nProgramming is the “glue” that binds all of these steps."
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
+    "href": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
+    "title": "Introduction to data science in R",
+    "section": "Freedom and empowerment",
+    "text": "Freedom and empowerment\n\nYou are restricted when using “tools” developed by others;\nIf you learn to create your own “tools”, the possibilities become endless.\nYou will gain in efficiency and freedom (you can delegate work to computers).\nYou will better understand the digital world."
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
+    "href": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
+    "title": "Introduction to data science in R",
+    "section": "Learning by doing",
+    "text": "Learning by doing\nThis is a hands-on course!"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#resources",
+    "href": "chapters/chapter1/slides/course_introduction.html#resources",
+    "title": "Introduction to data science in R",
+    "section": "Resources",
+    "text": "Resources\n\nHands-On Programming with R\nR for Data Science (2e)\nR for Psychological Science\nLearning Statistics with R\nR for Psych"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#grading",
+    "href": "chapters/chapter1/slides/course_introduction.html#grading",
+    "title": "Introduction to data science in R",
+    "section": "Grading",
+    "text": "Grading\n\nAttend and participate\nDo the assignments\nComplete final project"
+  }
+]
