@@ -174,6 +174,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">Lecture Slides</a></li>
+  <li><a href="#programming-in-r-slides" id="toc-programming-in-r-slides" class="nav-link" data-scroll-target="#programming-in-r-slides">Programming in R slides</a></li>
+  <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs">Labs</a></li>
   </ul>
 </nav>
     </div>
@@ -200,11 +202,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.</p>
+<p>We will cover the content of the <a href="https://xcit-courses.github.io/R-intro/about/"><em>Introduction to programming in R</em></a> course.</p>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">Lecture Slides</h2>
 <ul>
 <li><a href="../../chapters/chapter1/slides/course_introduction.html">Course introduction</a></li>
 </ul>
+</section>
+<section id="programming-in-r-slides" class="level2">
+<h2 class="anchored" data-anchor-id="programming-in-r-slides">Programming in R slides</h2>
+<ul>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter2/slides/introduction_to_R.html#/title-slide">Introduction to R</a></li>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter3/slides/getting_started_using_R.html#/title-slide">Getting started using R</a></li>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter4/slides/introduction_to_programming.html#/title-slide">Introduction to programming</a></li>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter5/slides/monty_hall_problem.html#/title-slide">Coding project 1: The Monty Hall problem</a></li>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter6/slides/import_data.html#/title-slide">Importing data</a></li>
+<li><a href="https://xcit-courses.github.io/R-intro/chapters/chapter7/slides/intro_to_data_analysis.html#/title-slide">Example analysis</a></li>
+</ul>
+</section>
+<section id="labs" class="level2">
+<h2 class="anchored" data-anchor-id="labs">Labs</h2>
+<ul>
+<li>https://github.com/xcit-courses/R-intro-labs</li>
+<li><a href="https://mybinder.org/v2/gh/xcit-courses/R-intro-labs/HEAD?urlpath=rstudio"><img src="https://mybinder.org/badge_logo.svg" class="img-fluid" alt="Binder"></a></li>
+</ul>
+<p>This repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.</p>
 
 
 </section>
@@ -300,7 +322,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/xcit-courses\.github\.io\/ds-R-intro\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
