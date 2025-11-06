@@ -5,7 +5,30 @@ title: "Chapter 1: Introduction to Data Science in R"
 
 This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.
 
+We will cover the content of the [*Introduction to programming in R*](https://xcit-courses.github.io/R-intro/about/) course.
+
+
 ## Lecture Slides
 
+
 - [Course introduction](slides/course_introduction.qmd)
+
+
+## Programming in R slides
+
+- [Introduction to R](https://xcit-courses.github.io/R-intro/chapters/chapter2/slides/introduction_to_R.html#/title-slide)
+- [Getting started using R](https://xcit-courses.github.io/R-intro/chapters/chapter3/slides/getting_started_using_R.html#/title-slide)
+- [Introduction to programming](https://xcit-courses.github.io/R-intro/chapters/chapter4/slides/introduction_to_programming.html#/title-slide)
+- [Coding project 1: The Monty Hall problem](https://xcit-courses.github.io/R-intro/chapters/chapter5/slides/monty_hall_problem.html#/title-slide)
+- [Importing data](https://xcit-courses.github.io/R-intro/chapters/chapter6/slides/import_data.html#/title-slide)
+- [Example analysis](https://xcit-courses.github.io/R-intro/chapters/chapter7/slides/intro_to_data_analysis.html#/title-slide)
+
+
+## Labs
+
+- https://github.com/xcit-courses/R-intro-labs
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xcit-courses/R-intro-labs/HEAD?urlpath=rstudio)
+
+This repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.
+
 
