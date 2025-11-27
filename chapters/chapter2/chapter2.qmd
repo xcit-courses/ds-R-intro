@@ -1,0 +1,20 @@
+---
+title: "Chapter 2: Data visualization"
+---
+
+
+This chapter introduces key concepts of data visualization design and introduces the ggplot2 package for creating data visualization in R.
+
+
+## Lecture Slides
+
+- [Introduction to data visualization design](https://xcit-courses.github.io/data-viz-design/chapters/chapter1/slides/data_viz_intro.html)
+- [How to assess graphs?](https://xcit-courses.github.io/data-viz-design/chapters/chapter2/slides/how_to_assess_graphs.html)
+- [Picking the right type of data visualization](https://xcit-courses.github.io/data-viz-design/chapters/chapter3/slides/data_viz_types.html)
+- [The science of data visualization](https://xcit-courses.github.io/data-viz-design/chapters/chapter4/slides/data_viz_science.html#/section)
+
+
+
+## Exercises
+
+- [Drawing exercises](https://xcit-courses.github.io/data-viz-design/exercises/draw_scenarios/slides/draw_scenarios_IQ.html)

@@ -23,16 +23,11 @@ editor: visual
 
 ## Hello, nice to meet you! {.center}
 
-
-
 ## Schedule
 
 ::: {style="font-size: 70%;"}
-
 {{< include ../../../about/schedule_table.md >}}
-
 :::
-
 
 ## What is this course about?
 
@@ -47,24 +42,17 @@ editor: visual
 8.  Data analysis (modeling, statistics, ML)
 9.  Workflows & best practices (reproducibility)
 10. ...anything else?
-      
 :::
-
-
 
 ## Why this course?
 
-[![Wikipedia](/chapters/chapter1/images/the_scientific_method.png){fig-alt="https://en.wikipedia.org/wiki/Scientific_method" fig-align="center" width="600" .img-shadow}](https://en.wikipedia.org/wiki/Scientific_method)
-
-
+[![Wikipedia](/chapters/chapter1/images/the_scientific_method.png){.img-shadow fig-alt="https://en.wikipedia.org/wiki/Scientific_method" fig-align="center" width="600"}](https://en.wikipedia.org/wiki/Scientific_method)
 
 ## Data science workflow
 
-[![https://r4ds.hadley.nz/](/chapters/chapter1/images/data_science_workflow.png){fig-alt="https://r4ds.hadley.nz/" fig-align="center" .img-shadow}](https://r4ds.hadley.nz/)
+[![https://r4ds.hadley.nz/](/chapters/chapter1/images/data_science_workflow.png){.img-shadow fig-alt="https://r4ds.hadley.nz/" fig-align="center"}](https://r4ds.hadley.nz/)
 
 Programming is the "glue" that binds all of these steps.
-
-
 
 ## Freedom and empowerment
 
@@ -80,8 +68,6 @@ Programming is the "glue" that binds all of these steps.
 
 This is a hands-on course!
 
-
-
 ## Resources
 
 -   [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
@@ -89,10 +75,9 @@ This is a hands-on course!
 -   [R for Psychological Science](https://psyr.djnavarro.net/)
 -   [Learning Statistics with R](https://learningstatisticswithr.com/)
 -   [R for Psych](https://glennwilliams.me/r4psych/)
-   
 
 ## Grading
 
- - Attend and participate
- - Do the assignments
- - Complete final project
+-   Attend and participate
+-   Do the assignments
+-   Complete final project

@@ -7,6 +7,8 @@ This is the (work in progress) course website for "Introduction to Data Science 
 
 In this course we will cover the following content:
 
-- [Chapter 1: Course introduction](../chapters/chapter1/chapter1.qmd)
+- [Chapter 1: Programming in R](../chapters/chapter1/chapter1.qmd)
+- [Chapter 2: Data visualization](../chapters/chapter2/chapter2.qmd)
+
 
 Each chapter contains links to slides and possibly other resources.

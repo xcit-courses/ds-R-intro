@@ -38,8 +38,10 @@ website:
 
       - section: Chapters
         contents:
-          - text: Chapter 1 - Introduction to Data Science
+          - text: Chapter 1 - Programming in R
             href: chapters/chapter1/chapter1.qmd
+          - text: Chapter 2 - Data visualization
+            href: chapters/chapter2/chapter2.qmd            
       - text: Resources
         href: resources/resources.md
 
@@ -57,7 +59,8 @@ book:
         - about/syllabus.qmd
     - part: "Chapters"
       chapters:
-        - chapters/chapter1/chapter1.qmd                                      
+        - chapters/chapter1/chapter1.qmd            
+        - chapters/chapter2/chapter2.qmd                          
     - resources/resources.md
 
 format:

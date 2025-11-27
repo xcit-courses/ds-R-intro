@@ -9,7 +9,7 @@ title: "Syllabus"
 **Email:** pedro.cardosoleite@uni.lu  
 **ECTS Credits:** 3  
 **Language:** English  
-**Course Type:** Workshop/Lab-course  
+**Course Type:** Workshop/Lab Course  
 
 
 ## Course Description
@@ -40,8 +40,8 @@ By the end of this course, the student should be able to:
 **Instructor:** Pedro Cardoso-Leite (pedro.cardosoleite@uni.lu)  
 **ECTS:** 3  
 **Language:** English  
-**Course Type:** Workshop/Lab-course  
-**Semester:** Whole year (Winter + Summer)
+**Course Type:** Workshop/Lab Course  
+**Semester:** Whole Year (Winter + Summer)
 
 ## Workload
 
