@@ -1,0 +1,219 @@
+---
+title: "Pipes in R"
+author: "[Pedro Cardoso-Leite](pedro.cardosoleite@uni.lu)"
+title-block-banner: true
+title-block-style: plain
+affiliation-title: "University of Luxembourg" 
+format: 
+  revealjs:
+    theme: [default, ../../../assets/revealjs_themes/teaching.scss]
+    css: ../../../assets/revealjs_themes/style.css
+    incremental: true
+    chalkboard: true
+    logo: "https://xcit.org/images/xcit/logofinaline.png"
+    width: 1600
+    height: 900
+    pointer:
+      color: "#db0d23"
+      pointerSize: 24
+    revealjs-plugins:
+      - pointer
+editor: source
+---
+
+## 
+
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” --Harold Abelson
+
+> “Good programmers write code that humans can understand.” --Martin Fowler
+
+> “Any code of your own that you haven't looked at for six or more months might as well have been written by someone else. ” --Eagleson's law
+
+## Programming is an interface
+
+::::: columns
+::: {.column .fragment width="50%"}
+“What is the square which when taken with ten of its roots will give a sum of thirty nine?”
+
+al-Khwārizmī
+:::
+
+::: {.column .fragment width="50%"}
+$$x^2 + 10x=39$$
+:::
+:::::
+
+::: aside
+From Bret Victor's, [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/).
+:::
+
+## {.center}
+
+::: {style="background-color: white; padding: 20px;"}
+$$ y = sin(cos(x+3)-4)+1 $$
+:::
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**reading order**
+
+1. $y$
+1. $=$
+1. $sin($
+1. $cos($
+1. $x+3)$
+1. $-4)$
+1. $+1$
+
+:::
+
+::: {.column width="50%"}
+**computing order**
+
+1. $m = x$
+1. $m = m + 3$
+1. $m = cos(m)$
+1. $m = result - 4$
+1. $m = sin(m)$
+1. $y = m + 1$
+:::
+
+::::
+
+
+
+
+
+
+
+## The pipe operator `|>`
+
+The pipe operator makes it easier to understand the sequence of computations
+
+
+
+
+##
+
+::: {style="background-color: white; padding: 20px;"}
+$$ y = sin(cos(x+3)-4)+1 $$
+:::
+
+<br>
+
+rewritten using pipes as: 
+
+```{r}
+#| eval: false
+#| echo: true
+
+y <- x |>  
+      add(3) |>  
+      cos() |>  
+      add(-4) |>  
+      sin() |>  
+      add(1)
+
+```
+
+
+
+<br>
+
+
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**reading order**
+
+1. $y$
+1. $=$
+1. $sin($
+1. $cos($
+1. $x+3)$
+1. $-4)$
+1. $+1$
+
+:::
+
+::: {.column width="50%"}
+**computing order**
+
+1. $m = x$
+1. $m = m + 3$
+1. $m = cos(m)$
+1. $m = result - 4$
+1. $m = sin(m)$
+1. $y = m + 1$
+:::
+
+::::
+
+
+
+
+## {.center}
+A data analysis can be viewed as a chaining of operations.
+
+The pipe operator makes the sequences of operations more transparent.
+
+<br>
+
+:::: {.columns style="display: flex !important; align-items: center !important;"}
+
+::: {.column width=60%}
+![](../images/data_science_workflow.png)
+:::
+
+::: {.column width=30%}
+```{r}
+#| eval: false
+#| echo: true
+
+Data |> 
+  process_1 |> 
+  process_2 |> 
+  process_3
+
+```
+:::
+
+
+::::
+
+
+
+## Note
+
+Change default setting in Rstudio to switch from `%>%` to `|>`
+
+<br>
+
+When reading data analysis code you can infer: 
+
+
+ - if you see `|>` -> likely recent code
+
+ - if you see `%>%` -> likely older code
+ 
+ - if you see no pipes -> likely obsolete
+
+
+## Exercises
+
+rewrite code from base-style to pipe-style
+
+1. `sqrt(x)`
+2. `sin(cos(x))`
+3. `y <- sin(cos(x+3)-4)+1`
+4. `mean(x, na.rm = True)`
+5. `ggplot(data = df, aes(x, y)) + geom_point()`
+6. `setdiff(x,y)`
+
+

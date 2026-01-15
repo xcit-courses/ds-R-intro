@@ -1,0 +1,19 @@
+---
+title: "Chapter 4: Importing data & data frames"
+---
+
+
+In this chapter we will see how to import different types of data files into R. We will also explore data frames and how to access data inside a data frame.
+
+
+
+## Lecture Slides
+
+No slides for this chapter.
+
+
+## Labs
+
+- [Import data exercises](https://github.com/xcit-courses/R-intro-labs)
+
+

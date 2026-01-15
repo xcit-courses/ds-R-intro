@@ -41,7 +41,16 @@ website:
           - text: Chapter 1 - Programming in R
             href: chapters/chapter1/chapter1.qmd
           - text: Chapter 2 - Data visualization
-            href: chapters/chapter2/chapter2.qmd            
+            href: chapters/chapter2/chapter2.qmd
+          - text: Chapter 3 - ggplot2
+            href: chapters/chapter3/chapter3.qmd                     
+          - text: Chapter 4 - importing and data.frames
+            href: chapters/chapter4/chapter4.qmd                     
+          - text: Chapter 5 - pipes
+            href: chapters/chapter5/chapter5.qmd                     
+          - text: Chapter 6 - tidy data
+            href: chapters/chapter6/chapter6.qmd                     
+
       - text: Resources
         href: resources/resources.md
 
@@ -60,7 +69,11 @@ book:
     - part: "Chapters"
       chapters:
         - chapters/chapter1/chapter1.qmd            
-        - chapters/chapter2/chapter2.qmd                          
+        - chapters/chapter2/chapter2.qmd            
+        - chapters/chapter3/chapter3.qmd            
+        - chapters/chapter4/chapter4.qmd            
+        - chapters/chapter5/chapter5.qmd            
+        - chapters/chapter6/chapter6.qmd                          
     - resources/resources.md
 
 format:

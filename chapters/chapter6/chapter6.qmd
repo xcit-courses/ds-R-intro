@@ -1,0 +1,20 @@
+---
+title: "Chapter 6: Tidy data"
+---
+
+
+In this chapter we will see the key concept of tidy data as well as the tools to convert a messy dataset into a tidy one.
+
+
+
+
+## Lecture Slides
+
+TODO
+
+
+## Labs
+
+- [Import data exercises](https://github.com/xcit-courses/R-intro-labs)
+
+
