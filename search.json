@@ -40,36 +40,197 @@
     ]
   },
   {
-    "objectID": "chapters/chapter2/chapter2.html",
-    "href": "chapters/chapter2/chapter2.html",
-    "title": "Chapter 2: Data visualization",
+    "objectID": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
+    "href": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
+    "title": "Introduction to data science in R",
+    "section": "Hello, nice to meet you!",
+    "text": "Hello, nice to meet you!"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#schedule",
+    "href": "chapters/chapter1/slides/course_introduction.html#schedule",
+    "title": "Introduction to data science in R",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 4.340\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
+    "href": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
+    "title": "Introduction to data science in R",
+    "section": "What is this course about?",
+    "text": "What is this course about?\n\n\nGetting started (background and setup)\nProgramming, in R\nIntroduction to the tidyverse\nImporting data into R\nData visualization Design\nData visualization using ggplot2\nData tidying and transformations\nData analysis (modeling, statistics, ML)\nWorkflows & best practices (reproducibility)\n…anything else?"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#why-this-course",
+    "href": "chapters/chapter1/slides/course_introduction.html#why-this-course",
+    "title": "Introduction to data science in R",
+    "section": "Why this course?",
+    "text": "Why this course?\n\n\n\n\n\n\n\nWikipedia"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
+    "href": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
+    "title": "Introduction to data science in R",
+    "section": "Data science workflow",
+    "text": "Data science workflow\n\n\n\n\n\n\n\nhttps://r4ds.hadley.nz/\n\n\nProgramming is the “glue” that binds all of these steps."
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
+    "href": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
+    "title": "Introduction to data science in R",
+    "section": "Freedom and empowerment",
+    "text": "Freedom and empowerment\n\nYou are restricted when using “tools” developed by others;\nIf you learn to create your own “tools”, the possibilities become endless.\nYou will gain in efficiency and freedom (you can delegate work to computers).\nYou will better understand the digital world."
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
+    "href": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
+    "title": "Introduction to data science in R",
+    "section": "Learning by doing",
+    "text": "Learning by doing\nThis is a hands-on course!"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#resources",
+    "href": "chapters/chapter1/slides/course_introduction.html#resources",
+    "title": "Introduction to data science in R",
+    "section": "Resources",
+    "text": "Resources\n\nHands-On Programming with R\nR for Data Science (2e)\nR for Psychological Science\nLearning Statistics with R\nR for Psych"
+  },
+  {
+    "objectID": "chapters/chapter1/slides/course_introduction.html#grading",
+    "href": "chapters/chapter1/slides/course_introduction.html#grading",
+    "title": "Introduction to data science in R",
+    "section": "Grading",
+    "text": "Grading\n\nAttend and participate\nDo the assignments\nComplete final project"
+  },
+  {
+    "objectID": "chapters/chapter5/chapter5.html",
+    "href": "chapters/chapter5/chapter5.html",
+    "title": "Chapter 1: Introduction to Data Science in R",
     "section": "",
-    "text": "This chapter introduces key concepts of data visualization design and introduces the ggplot2 package for creating data visualization in R.",
+    "text": "This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.\nWe will cover the content of the Introduction to programming in R course.",
     "crumbs": [
       "Chapters",
-      "Chapter 2 - Data visualization"
+      "Chapter 5 - pipes"
     ]
   },
   {
-    "objectID": "chapters/chapter2/chapter2.html#lecture-slides",
-    "href": "chapters/chapter2/chapter2.html#lecture-slides",
-    "title": "Chapter 2: Data visualization",
+    "objectID": "chapters/chapter5/chapter5.html#lecture-slides",
+    "href": "chapters/chapter5/chapter5.html#lecture-slides",
+    "title": "Chapter 1: Introduction to Data Science in R",
     "section": "Lecture Slides",
-    "text": "Lecture Slides\n\nIntroduction to data visualization design\nHow to assess graphs?\nPicking the right type of data visualization\nThe science of data visualization",
+    "text": "Lecture Slides\n\nCourse introduction",
     "crumbs": [
       "Chapters",
-      "Chapter 2 - Data visualization"
+      "Chapter 5 - pipes"
     ]
   },
   {
-    "objectID": "chapters/chapter2/chapter2.html#exercises",
-    "href": "chapters/chapter2/chapter2.html#exercises",
-    "title": "Chapter 2: Data visualization",
-    "section": "Exercises",
-    "text": "Exercises\n\nDrawing exercises",
+    "objectID": "chapters/chapter5/chapter5.html#programming-in-r-slides",
+    "href": "chapters/chapter5/chapter5.html#programming-in-r-slides",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Programming in R slides",
+    "text": "Programming in R slides\n\nIntroduction to R\nGetting started using R\nIntroduction to programming\nCoding project 1: The Monty Hall problem",
     "crumbs": [
       "Chapters",
-      "Chapter 2 - Data visualization"
+      "Chapter 5 - pipes"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter5/chapter5.html#labs",
+    "href": "chapters/chapter5/chapter5.html#labs",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Labs",
+    "text": "Labs\n\nhttps://github.com/xcit-courses/R-intro-labs\n\n\nThis repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 5 - pipes"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter3/chapter3.html",
+    "href": "chapters/chapter3/chapter3.html",
+    "title": "Chapter 1: Introduction to ggplot2",
+    "section": "",
+    "text": "This chapter introduces the ggplot2 package for data visualization in R.\nTODO: update slides",
+    "crumbs": [
+      "Chapters",
+      "Chapter 3 - ggplot2"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html",
+    "href": "chapters/chapter1/chapter1.html",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "",
+    "text": "This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.\nWe will cover the content of the Introduction to programming in R course.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Programming in R"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html#lecture-slides",
+    "href": "chapters/chapter1/chapter1.html#lecture-slides",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\n\nCourse introduction",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Programming in R"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html#programming-in-r-slides",
+    "href": "chapters/chapter1/chapter1.html#programming-in-r-slides",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Programming in R slides",
+    "text": "Programming in R slides\n\nIntroduction to R\nGetting started using R\nIntroduction to programming\nCoding project 1: The Monty Hall problem",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Programming in R"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter1/chapter1.html#labs",
+    "href": "chapters/chapter1/chapter1.html#labs",
+    "title": "Chapter 1: Introduction to Data Science in R",
+    "section": "Labs",
+    "text": "Labs\n\nhttps://github.com/xcit-courses/R-intro-labs\n\n\nThis repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 1 - Programming in R"
+    ]
+  },
+  {
+    "objectID": "about/overview.html",
+    "href": "about/overview.html",
+    "title": "Course Overview",
+    "section": "",
+    "text": "This is the homepage for Introduction to Data Science in R taught by Prof. Pedro Cardoso-Leite at the University of Luxembourg within the Doctoral Programme in Psychology.\nAll course materials will be posted here. Note however that this course also has a moodle page.",
+    "crumbs": [
+      "Course Information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "about/overview.html#when-and-where",
+    "href": "about/overview.html#when-and-where",
+    "title": "Course Overview",
+    "section": "When and Where",
+    "text": "When and Where\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 4.340\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir",
+    "crumbs": [
+      "Course Information",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Introduction to Data Science in R",
+    "section": "",
+    "text": "This is the (work in progress) course website for “Introduction to Data Science in R”.\nIn this course we will cover the following content:\n\nChapter 1: Programming in R\nChapter 2: Data visualization\n\nEach chapter contains links to slides and possibly other resources.",
+    "crumbs": [
+      "Home"
     ]
   },
   {
@@ -161,142 +322,158 @@
     ]
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "Introduction to Data Science in R",
+    "objectID": "chapters/chapter2/chapter2.html",
+    "href": "chapters/chapter2/chapter2.html",
+    "title": "Chapter 2: Data visualization",
     "section": "",
-    "text": "This is the (work in progress) course website for “Introduction to Data Science in R”.\nIn this course we will cover the following content:\n\nChapter 1: Programming in R\nChapter 2: Data visualization\n\nEach chapter contains links to slides and possibly other resources.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "about/overview.html",
-    "href": "about/overview.html",
-    "title": "Course Overview",
-    "section": "",
-    "text": "This is the homepage for Introduction to Data Science in R taught by Prof. Pedro Cardoso-Leite at the University of Luxembourg within the Doctoral Programme in Psychology.\nAll course materials will be posted here. Note however that this course also has a moodle page.",
-    "crumbs": [
-      "Course Information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "about/overview.html#when-and-where",
-    "href": "about/overview.html#when-and-where",
-    "title": "Course Overview",
-    "section": "When and Where",
-    "text": "When and Where\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir",
-    "crumbs": [
-      "Course Information",
-      "Overview"
-    ]
-  },
-  {
-    "objectID": "chapters/chapter1/chapter1.html",
-    "href": "chapters/chapter1/chapter1.html",
-    "title": "Chapter 1: Introduction to Data Science in R",
-    "section": "",
-    "text": "This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.\nWe will cover the content of the Introduction to programming in R course.",
+    "text": "This chapter introduces key concepts of data visualization design and introduces the ggplot2 package for creating data visualization in R.",
     "crumbs": [
       "Chapters",
-      "Chapter 1 - Programming in R"
+      "Chapter 2 - Data visualization"
     ]
   },
   {
-    "objectID": "chapters/chapter1/chapter1.html#lecture-slides",
-    "href": "chapters/chapter1/chapter1.html#lecture-slides",
-    "title": "Chapter 1: Introduction to Data Science in R",
+    "objectID": "chapters/chapter2/chapter2.html#lecture-slides",
+    "href": "chapters/chapter2/chapter2.html#lecture-slides",
+    "title": "Chapter 2: Data visualization",
     "section": "Lecture Slides",
-    "text": "Lecture Slides\n\nCourse introduction",
+    "text": "Lecture Slides\n\nIntroduction to data visualization design\nHow to assess graphs?\nPicking the right type of data visualization\nThe science of data visualization",
     "crumbs": [
       "Chapters",
-      "Chapter 1 - Programming in R"
+      "Chapter 2 - Data visualization"
     ]
   },
   {
-    "objectID": "chapters/chapter1/chapter1.html#programming-in-r-slides",
-    "href": "chapters/chapter1/chapter1.html#programming-in-r-slides",
-    "title": "Chapter 1: Introduction to Data Science in R",
-    "section": "Programming in R slides",
-    "text": "Programming in R slides\n\nIntroduction to R\nGetting started using R\nIntroduction to programming\nCoding project 1: The Monty Hall problem",
+    "objectID": "chapters/chapter2/chapter2.html#exercises",
+    "href": "chapters/chapter2/chapter2.html#exercises",
+    "title": "Chapter 2: Data visualization",
+    "section": "Exercises",
+    "text": "Exercises\n\nDrawing exercises",
     "crumbs": [
       "Chapters",
-      "Chapter 1 - Programming in R"
+      "Chapter 2 - Data visualization"
     ]
   },
   {
-    "objectID": "chapters/chapter1/chapter1.html#labs",
-    "href": "chapters/chapter1/chapter1.html#labs",
-    "title": "Chapter 1: Introduction to Data Science in R",
+    "objectID": "chapters/chapter4/chapter4.html",
+    "href": "chapters/chapter4/chapter4.html",
+    "title": "Chapter 4: Importing data & data frames",
+    "section": "",
+    "text": "In this chapter we will see how to import different types of data files into R. We will also explore data frames and how to access data inside a data frame.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 4 - importing and data.frames"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter4/chapter4.html#lecture-slides",
+    "href": "chapters/chapter4/chapter4.html#lecture-slides",
+    "title": "Chapter 4: Importing data & data frames",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\nNo slides for this chapter.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 4 - importing and data.frames"
+    ]
+  },
+  {
+    "objectID": "chapters/chapter4/chapter4.html#labs",
+    "href": "chapters/chapter4/chapter4.html#labs",
+    "title": "Chapter 4: Importing data & data frames",
     "section": "Labs",
-    "text": "Labs\n\nhttps://github.com/xcit-courses/R-intro-labs\n\n\nThis repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.",
+    "text": "Labs\n\nImport data exercises",
     "crumbs": [
       "Chapters",
-      "Chapter 1 - Programming in R"
+      "Chapter 4 - importing and data.frames"
     ]
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
-    "href": "chapters/chapter1/slides/course_introduction.html#hello-nice-to-meet-you",
-    "title": "Introduction to data science in R",
-    "section": "Hello, nice to meet you!",
-    "text": "Hello, nice to meet you!"
+    "objectID": "chapters/chapter6/chapter6.html",
+    "href": "chapters/chapter6/chapter6.html",
+    "title": "Chapter 6: Tidy data",
+    "section": "",
+    "text": "In this chapter we will see the key concept of tidy data as well as the tools to convert a messy dataset into a tidy one.",
+    "crumbs": [
+      "Chapters",
+      "Chapter 6 - tidy data"
+    ]
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#schedule",
-    "href": "chapters/chapter1/slides/course_introduction.html#schedule",
-    "title": "Introduction to data science in R",
-    "section": "Schedule",
-    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\n\nSession\nDate\nTime\nRoom\nLocation\n\n\n\n\n1\n6 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n2\n13 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n3\n20 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n4\n27 November 2025\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n5\n4 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n6\n11 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n7\n18 December 2025\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n8\n15 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n9\n22 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n10\n29 January 2026\n13:00-16:30\nMSA 4.330\nEsch-sur-Alzette, Maison du Savoir\n\n\n11\n5 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n12\n12 February 2026\n13:00-16:30\nMSA 3.240\nEsch-sur-Alzette, Maison du Savoir\n\n\n13\n5 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n14\n12 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir\n\n\n15\n19 March 2026\n13:00-16:30\nTBA\nEsch-sur-Alzette, Maison du Savoir"
+    "objectID": "chapters/chapter6/chapter6.html#lecture-slides",
+    "href": "chapters/chapter6/chapter6.html#lecture-slides",
+    "title": "Chapter 6: Tidy data",
+    "section": "Lecture Slides",
+    "text": "Lecture Slides\nTODO",
+    "crumbs": [
+      "Chapters",
+      "Chapter 6 - tidy data"
+    ]
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
-    "href": "chapters/chapter1/slides/course_introduction.html#what-is-this-course-about",
-    "title": "Introduction to data science in R",
-    "section": "What is this course about?",
-    "text": "What is this course about?\n\n\nGetting started (background and setup)\nProgramming, in R\nIntroduction to the tidyverse\nImporting data into R\nData visualization Design\nData visualization using ggplot2\nData tidying and transformations\nData analysis (modeling, statistics, ML)\nWorkflows & best practices (reproducibility)\n…anything else?"
+    "objectID": "chapters/chapter6/chapter6.html#labs",
+    "href": "chapters/chapter6/chapter6.html#labs",
+    "title": "Chapter 6: Tidy data",
+    "section": "Labs",
+    "text": "Labs\n\nImport data exercises",
+    "crumbs": [
+      "Chapters",
+      "Chapter 6 - tidy data"
+    ]
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#why-this-course",
-    "href": "chapters/chapter1/slides/course_introduction.html#why-this-course",
-    "title": "Introduction to data science in R",
-    "section": "Why this course?",
-    "text": "Why this course?\n\n\n\n\n\n\n\nWikipedia"
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#section",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#section",
+    "title": "Pipes in R",
+    "section": "",
+    "text": "“Programs must be written for people to read, and only incidentally for machines to execute.” –Harold Abelson\n\n\n“Good programmers write code that humans can understand.” –Martin Fowler\n\n\n“Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.” –Eagleson’s law"
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
-    "href": "chapters/chapter1/slides/course_introduction.html#data-science-workflow",
-    "title": "Introduction to data science in R",
-    "section": "Data science workflow",
-    "text": "Data science workflow\n\n\n\n\n\n\n\nhttps://r4ds.hadley.nz/\n\n\nProgramming is the “glue” that binds all of these steps."
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#programming-is-an-interface",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#programming-is-an-interface",
+    "title": "Pipes in R",
+    "section": "Programming is an interface",
+    "text": "Programming is an interface\n\n\n“What is the square which when taken with ten of its roots will give a sum of thirty nine?”\nal-Khwārizmī\n\n\\[x^2 + 10x=39\\]\n\n\n\nFrom Bret Victor’s, Media for Thinking the Unthinkable."
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
-    "href": "chapters/chapter1/slides/course_introduction.html#freedom-and-empowerment",
-    "title": "Introduction to data science in R",
-    "section": "Freedom and empowerment",
-    "text": "Freedom and empowerment\n\nYou are restricted when using “tools” developed by others;\nIf you learn to create your own “tools”, the possibilities become endless.\nYou will gain in efficiency and freedom (you can delegate work to computers).\nYou will better understand the digital world."
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#section-1",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#section-1",
+    "title": "Pipes in R",
+    "section": "",
+    "text": "\\[ y = sin(cos(x+3)-4)+1 \\]\n\n\n\n\nreading order\n\n\\(y\\)\n\\(=\\)\n\\(sin(\\)\n\\(cos(\\)\n\\(x+3)\\)\n\\(-4)\\)\n\\(+1\\)\n\n\ncomputing order\n\n\\(m = x\\)\n\\(m = m + 3\\)\n\\(m = cos(m)\\)\n\\(m = result - 4\\)\n\\(m = sin(m)\\)\n\\(y = m + 1\\)"
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
-    "href": "chapters/chapter1/slides/course_introduction.html#learning-by-doing",
-    "title": "Introduction to data science in R",
-    "section": "Learning by doing",
-    "text": "Learning by doing\nThis is a hands-on course!"
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#the-pipe-operator",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#the-pipe-operator",
+    "title": "Pipes in R",
+    "section": "The pipe operator |>",
+    "text": "The pipe operator |&gt;\nThe pipe operator makes it easier to understand the sequence of computations"
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#resources",
-    "href": "chapters/chapter1/slides/course_introduction.html#resources",
-    "title": "Introduction to data science in R",
-    "section": "Resources",
-    "text": "Resources\n\nHands-On Programming with R\nR for Data Science (2e)\nR for Psychological Science\nLearning Statistics with R\nR for Psych"
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#section-2",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#section-2",
+    "title": "Pipes in R",
+    "section": "",
+    "text": "\\[ y = sin(cos(x+3)-4)+1 \\]\n\n\nrewritten using pipes as:\n\ny &lt;- x |&gt;  \n      add(3) |&gt;  \n      cos() |&gt;  \n      add(-4) |&gt;  \n      sin() |&gt;  \n      add(1)\n\n\n\n\nreading order\n\n\\(y\\)\n\\(=\\)\n\\(sin(\\)\n\\(cos(\\)\n\\(x+3)\\)\n\\(-4)\\)\n\\(+1\\)\n\n\ncomputing order\n\n\\(m = x\\)\n\\(m = m + 3\\)\n\\(m = cos(m)\\)\n\\(m = result - 4\\)\n\\(m = sin(m)\\)\n\\(y = m + 1\\)"
   },
   {
-    "objectID": "chapters/chapter1/slides/course_introduction.html#grading",
-    "href": "chapters/chapter1/slides/course_introduction.html#grading",
-    "title": "Introduction to data science in R",
-    "section": "Grading",
-    "text": "Grading\n\nAttend and participate\nDo the assignments\nComplete final project"
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#section-3",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#section-3",
+    "title": "Pipes in R",
+    "section": "",
+    "text": "A data analysis can be viewed as a chaining of operations.\nThe pipe operator makes the sequences of operations more transparent.\n\n\n\n\n\n\nData |&gt; \n  process_1 |&gt; \n  process_2 |&gt; \n  process_3"
+  },
+  {
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#note",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#note",
+    "title": "Pipes in R",
+    "section": "Note",
+    "text": "Note\nChange default setting in Rstudio to switch from %&gt;% to |&gt;\n\nWhen reading data analysis code you can infer:\n\nif you see |&gt; -&gt; likely recent code\nif you see %&gt;% -&gt; likely older code\nif you see no pipes -&gt; likely obsolete"
+  },
+  {
+    "objectID": "chapters/chapter5/slides/pipes_in_R.html#exercises",
+    "href": "chapters/chapter5/slides/pipes_in_R.html#exercises",
+    "title": "Pipes in R",
+    "section": "Exercises",
+    "text": "Exercises\nrewrite code from base-style to pipe-style\n\nsqrt(x)\nsin(cos(x))\ny &lt;- sin(cos(x+3)-4)+1\nmean(x, na.rm = True)\nggplot(data = df, aes(x, y)) + geom_point()\nsetdiff(x,y)"
   }
 ]
