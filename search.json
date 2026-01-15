@@ -105,9 +105,9 @@
   {
     "objectID": "chapters/chapter5/chapter5.html",
     "href": "chapters/chapter5/chapter5.html",
-    "title": "Chapter 1: Introduction to Data Science in R",
+    "title": "Chapter 5: Pipes in R",
     "section": "",
-    "text": "This chapter introduces the fundamental data science workflow and presents the R + RStudio + tidyverse programming ecosystem.\nWe will cover the content of the Introduction to programming in R course.",
+    "text": "This chapter introduces the use of pipes |&gt; in R.",
     "crumbs": [
       "Chapters",
       "Chapter 5 - pipes"
@@ -116,31 +116,9 @@
   {
     "objectID": "chapters/chapter5/chapter5.html#lecture-slides",
     "href": "chapters/chapter5/chapter5.html#lecture-slides",
-    "title": "Chapter 1: Introduction to Data Science in R",
+    "title": "Chapter 5: Pipes in R",
     "section": "Lecture Slides",
-    "text": "Lecture Slides\n\nCourse introduction",
-    "crumbs": [
-      "Chapters",
-      "Chapter 5 - pipes"
-    ]
-  },
-  {
-    "objectID": "chapters/chapter5/chapter5.html#programming-in-r-slides",
-    "href": "chapters/chapter5/chapter5.html#programming-in-r-slides",
-    "title": "Chapter 1: Introduction to Data Science in R",
-    "section": "Programming in R slides",
-    "text": "Programming in R slides\n\nIntroduction to R\nGetting started using R\nIntroduction to programming\nCoding project 1: The Monty Hall problem",
-    "crumbs": [
-      "Chapters",
-      "Chapter 5 - pipes"
-    ]
-  },
-  {
-    "objectID": "chapters/chapter5/chapter5.html#labs",
-    "href": "chapters/chapter5/chapter5.html#labs",
-    "title": "Chapter 1: Introduction to Data Science in R",
-    "section": "Labs",
-    "text": "Labs\n\nhttps://github.com/xcit-courses/R-intro-labs\n\n\nThis repository contains hands-on exercises designed to help you learn R programming fundamentals through practical examples and exercises.",
+    "text": "Lecture Slides\n\nPipes in R",
     "crumbs": [
       "Chapters",
       "Chapter 5 - pipes"
